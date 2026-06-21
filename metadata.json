@@ -1,0 +1,6 @@
+{
+  "name": "ReelGenius AI",
+  "description": "Create amazing viral reels from your videos with Gemini AI help. Trim, edit styles, choose filters, and generate the best-performing highlights & captions automatically.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
